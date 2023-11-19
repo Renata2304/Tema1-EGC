@@ -1,12 +1,5 @@
 Tema 1 - Romburi vs hexagoane
-Responsabili: Andrei Voicu, Mihnea Tudor, Anca Cristea, Cristian Lambru
-Lansare: 30 octombrie 2023
-Termen de predare: 19 noiembrie 2023, ora 23:59
-Regulament: Regulament general
-Notă: Orice informație ce nu a fost acoperită în acest document este la latitudinea voastră!
 În cadrul temei 1, veți avea de implementat un joc similar cu "Plants vs Zombies", dar adaptat pentru a conține o geometrie mult mai simplă :) . Puteți viziona un mic demo construit pe baza framework-ului de laborator, care acoperă cerințele și are un aspect vizual minimal.
-
-
 
 De asemenea, puteți descărca demo-ul ​ aici pentru a-l testa și a înțelege mai clar comportamentul de joc.
 
